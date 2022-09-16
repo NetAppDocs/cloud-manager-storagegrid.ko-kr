@@ -91,12 +91,8 @@
   <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto:ng-cloudmanager-feedback@netapp.com [피드백 이메일]</block>
   <block id="bff60abbc46aceed0f73a3a4f6cfb123" category="paragraph">저희는 귀하의 의견을 소중하게 생각합니다. 클라우드 관리자 개선에 도움이 되는 피드백을 제출해 주십시오.</block>
   <block id="0659d428df833a806e29e65e632d380a" category="section-title">NetApp 지원</block>
-  <block id="c91b5a63849b8d2db01014ed33192735" category="paragraph">위의 자체 지원 옵션 외에도 NetApp 지원 엔지니어와 협력하여 지원을 활성화한 이후의 모든 문제를 해결할 수 있습니다.</block>
   <block id="6c08c57e382a25a778455184cd9b1a4a" category="list-text">Cloud Manager에서 * 도움말 &gt; 지원 * 을 클릭합니다.</block>
   <block id="f5052c65917d7341726235d4d4941461" category="list-text">기술 지원 아래에서 사용 가능한 옵션 중 하나를 선택합니다.</block>
-  <block id="bece28b158ab337d9ed24b00d7d02cc7" category="list-text">NetApp 기술 지원을 위한 전화 번호를 찾으려면 * 문의하다</block>
-  <block id="efe81cff8e6f47ec59ef94167b76bf5a" category="list-text">문제 열기 * 를 클릭하고 옵션 중 하나를 선택한 다음 * 보내기 * 를 클릭합니다.</block>
-  <block id="cbb1040836732e478409dacf7e45171a" category="paragraph">NetApp 담당자가 귀하의 케이스를 검토하고 곧 다시 귀하에 연락을 드릴 것입니다.</block>
   <block id="3c10116b37b407ac79092a38ffb292e4" category="summary">NetApp 기술 지원으로 지원 케이스를 생성하기 전에 NetApp Support 사이트 계정을 Cloud Manager에 추가한 다음 지원을 위해 등록해야 합니다.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">지원을 위해 등록하십시오</block>
   <block id="aeaeee19a7c393222e407a525cf01991" category="section-title">NSS 계정을 추가합니다</block>
@@ -133,4 +129,27 @@
   <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central 블로그</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">클라우드 웨비나</block>
   <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">모든 Cloud Manager 설명서</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">위의 자체 지원 옵션 외에도 NetApp 지원 전문가와 협력하여 지원을 활성화한 이후의 모든 문제를 해결할 수 있습니다.</block>
+  <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">지원 등록 방법을 알아보십시오</block>
+  <block id="09651e14b46d7e8697d32de90d0deacb" category="paragraph">케이스 생성 * 기능을 사용하려면 먼저 Cloud Manager 계정 ID 일련 번호(예: 960xxxx) NetApp 포함 <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>.</block>
+  <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">전화로 통화하려면 * 전화 * 를 클릭하십시오. 전화를 걸 수 있는 전화 번호가 나열된 netapp.com 페이지로 연결됩니다.</block>
+  <block id="bf5bc6ab0f95f17f4e98c9d766b8c11d" category="list-text">케이스 생성 * 을 클릭하여 NetApp 지원 전문가와 함께 티켓을 엽니다.</block>
+  <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">* NetApp Support 사이트 계정 *: 지원 케이스를 여는 사람과 관련된 해당 NSS 계정을 선택합니다. 이 담당자는 아래에 제공된 추가 이메일 외에 NetApp에 연락할 수 있는 기본 담당자가 됩니다.</block>
+  <block id="ec65cc87efda54741062da1fce99ff76" category="paragraph">NSS 계정이 표시되지 않으면 Cloud Manager의 지원 섹션 내의 * NSS 관리 * 탭으로 이동하여 해당 계정을 추가할 수 있습니다.</block>
+  <block id="b3144caf7d928b7954447c757b3ed77b" category="list-text">* 서비스 *: 문제와 관련된 서비스를 선택합니다. 예를 들어, Cloud Manager가 서비스 내의 워크플로우 또는 기능과 관련된 기술 지원 문제를 해결할 수 있는 경우에 해당합니다.</block>
+  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">* 작업 환경 *: 스토리지에 적용 가능한 경우 * Cloud Volumes ONTAP * 또는 * On-Premise * 를 선택한 다음 관련 작업 환경을 선택합니다.</block>
+  <block id="1e38219c106fb9d07d173c027b8911c7" category="paragraph">작업 환경 목록은 서비스의 상단 배너에서 선택한 Cloud Manager 계정, 작업 공간 및 커넥터의 범위 내에 있습니다.</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">* 케이스 우선 순위 *: 케이스의 우선 순위를 선택합니다. 우선 순위는 낮음, 중간, 높음 또는 긴급입니다.</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">이러한 우선 순위에 대한 자세한 내용을 보려면 필드 이름 옆에 있는 정보 아이콘 위로 마우스를 가져갑니다.</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">* 문제 설명 * : 해당 오류 메시지 또는 수행한 문제 해결 단계를 포함하여 문제에 대한 자세한 설명을 제공합니다.</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">* 추가 이메일 주소 *: 다른 사람에게 이 문제를 알고자 할 경우 추가 이메일 주소를 입력하십시오.</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">NetApp Support로 케이스를 생성할 수 있는 케이스 생성 양식 스크린샷</block>
+  <block id="a2ff30886e1baf1e7d5045b5fc24f5b9" category="paragraph"><block ref="a2ff30886e1baf1e7d5045b5fc24f5b9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">지원 케이스 번호와 함께 팝업이 나타납니다. NetApp 지원 전문가가 귀사의 사례를 검토하고 곧 다시 연결해 드릴 것입니다.</block>
+  <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">지원 케이스 내역을 보려면 * 설정 &gt; 일정 * 을 클릭하고 "지원 케이스 생성"이라는 이름의 작업을 찾습니다. 오른쪽 끝에 있는 버튼을 사용하여 작업을 확장하여 세부 정보를 볼 수 있습니다.</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">케이스를 생성하려고 할 때 다음과 같은 오류 메시지가 나타날 수 있습니다.</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"선택한 서비스에 대해 케이스를 생성할 권한이 없습니다."</block>
+  <block id="148f13242c3e296dc276821cdc574921" category="paragraph">이 오류는 NSS 계정과 연결된 레코드 회사가 Cloud Manager 계정 일련 번호( 960xxxx) 또는 작동 환경 일련 번호 케이스 생성 * 양식 상단의 NSS 계정 목록을 확인하여 올바른 일치 항목을 찾거나 다음 옵션 중 하나를 사용하여 지원을 요청할 수 있습니다.</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">제품 내 채팅을 사용합니다</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">에서 비기술 케이스를 제출하십시오<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
 </blocks>
