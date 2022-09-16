@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: task-view-storagegrid.html 
+keywords: storagegrid, cluster, view, alerts, nodes, tenants, capacity, used capacity, free capacity, system ID, domain, IP, object data used, object metadata used, cpu usage, quota utilization, quota 
+summary: StorageGRID 시스템을 발견한 후 용량 분포 및 관련 알림, 노드 및 테넌트에 대한 세부 정보를 볼 수 있습니다. 
+---
+= StorageGRID 시스템을 봅니다
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+StorageGRID 시스템을 발견한 후 용량 분포 및 관련 알림, 노드 및 테넌트에 대한 세부 정보를 볼 수 있습니다.
+
+.단계
+. Canvas에서 보려는 StorageGRID 작업 환경의 이름을 두 번 클릭합니다.
+. StorageGRID 시스템에 대한 자세한 내용을 보려면 탭을 선택하십시오.
++
+** * 개요 *: 시스템의 용량 분포(사용된 용량 및 사용 가능한 용량), 시스템 알림, 노드 및 테넌트 수 등에 대한 상세 정보 보기
++
+image:screenshot-overview.png["StorageGRID 작업 환경의 개요 탭에 대한 스크린샷"]
+
+** * 경고 *: 활성 경고, 해결된 경고 및 해제된 경고를 포함하는 시스템 경고 요약입니다.
+** * 노드 *: 관리 노드, API 게이트웨이 노드 및 스토리지 노드에 대한 세부 정보 여기에는 사용된 오브젝트 데이터, 사용된 오브젝트 메타데이터 및 CPU 사용량 백분율이 포함됩니다.
++
+image:screenshot-nodes.png["StorageGRID 작업 환경의 노드 탭 스크린샷"]
+
+** * Tenants *: 사용된 논리적 공간, 할당량, 할당량, 객체 수를 포함하는 테넌트에 대한 주요 세부 정보.
++
+image:screenshot-tenants.png["StorageGRID 작업 환경의 Tenants 탭 스크린샷"]
+
+
+
+

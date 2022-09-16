@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: task-enable-data-services.html 
+keywords: storagegrid, cloud sync, cloud backup, backup, back up data 
+summary: Cloud Manager에서 StorageGRID 시스템을 발견한 후, 백업 및 데이터 동기화에 NetApp의 데이터 서비스를 StorageGRID와 함께 사용할 수 있습니다. 
+---
+= StorageGRID에서 NetApp 데이터 서비스 사용
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Cloud Manager에서 StorageGRID 시스템을 검색하고 나면 NetApp의 데이터 서비스를 사용하여 백업 및 데이터 동기화를 수행할 수 있습니다.
+
+* 클라우드 백업 * 을 사용하여 사내 ONTAP 시스템의 데이터를 NetApp StorageGRID 시스템의 오브젝트 스토리지로 백업할 수 있습니다.
++
+시작하려면 Canvas로 이동하여 StorageGRID 작업 환경에서 온-프레미스 ONTAP 작업 환경을 끌어다 놓습니다.
+
++
+https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-backup-onprem-private-cloud.html["사내 ONTAP 데이터를 StorageGRID에 백업하는 방법에 대해 자세히 알아보십시오"^]
+
+* Cloud Sync * 를 사용하여 StorageGRID 시스템과 데이터를 동기화하십시오.
++
+시작하려면 Canvas로 이동하여 대상 작업 환경에 소스 작업 환경을 끌어다 놓습니다. StorageGRID는 소스 또는 타겟이 될 수 있습니다.
+
++
+https://docs.netapp.com/us-en/cloud-manager-sync/index.html["Cloud Sync에 대해 자세히 알아보십시오"^]
+
+

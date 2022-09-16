@@ -1,0 +1,66 @@
+---
+settings:
+  name: StorageGRID
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: StorageGRID 문서
+    url: "/index.html"
+  - title: 릴리스 정보
+    url: "/whats-new.html"
+  - title: 시작하십시오
+    entries:
+    - title: StorageGRID 시스템에 대해 알아보십시오
+      url: "/task-discover-storagegrid.html"
+  - title: StorageGRID 시스템 관리
+    entries:
+    - title: StorageGRID 시스템을 봅니다
+      url: "/task-view-storagegrid.html"
+    - title: StorageGRID에서 NetApp 데이터 서비스 사용
+      url: "/task-enable-data-services.html"
+    - title: StorageGRID 시스템을 제거합니다
+      url: "/task-remove-storagegrid.html"
+  - title: 지식 및 지원
+    entries:
+    - title: 지원을 위해 등록하십시오
+      url: "/task-support-registration.html"
+    - title: 도움을 받으십시오
+      url: "/task-get-help.html"
+  - title: 법적 고지
+    url: "/legal-notices.html"
+homepage:
+  tiles:
+  - title: 시작하십시오
+    links:
+    - title: StorageGRID 시스템에 대해 알아보십시오
+      url: task-discover-storagegrid.html
+  - title: StorageGRID 시스템 관리
+    links:
+    - title: StorageGRID 시스템을 봅니다
+      url: task-view-storagegrid.html
+    - title: StorageGRID에서 NetApp 데이터 서비스 사용
+      url: task-enable-data-services.html
+    - title: StorageGRID를 제거합니다
+      url: task-remove-storagegrid.html
+  - title: 추가 정보
+    links:
+    - title: Cloud Manager 외부의 관리를 위한 StorageGRID 문서
+      url: https://docs.netapp.com/us-en/storagegrid-116/
+  - title: 블로그 커뮤니티
+    links:
+    - title: NetApp 커뮤니티
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: Cloud Central 블로그
+      url: https://cloud.netapp.com/blog
+    - title: 클라우드 웨비나
+      url: https://cloud.netapp.com/events
+product-family:
+  name: Cloud Manager
+  repo: cloud-manager-family
+  sidebar_label: 모든 Cloud Manager 설명서
