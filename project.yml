@@ -50,17 +50,17 @@ homepage:
       url: task-remove-storagegrid.html
   - title: 추가 정보
     links:
-    - title: Cloud Manager 외부의 관리를 위한 StorageGRID 문서
+    - title: BlueXP 외부의 관리를 위한 StorageGRID 문서
       url: https://docs.netapp.com/us-en/storagegrid-116/
   - title: 블로그 커뮤니티
     links:
     - title: NetApp 커뮤니티
       url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
-    - title: Cloud Central 블로그
+    - title: BlueXP 블로그
       url: https://cloud.netapp.com/blog
     - title: 클라우드 웨비나
       url: https://cloud.netapp.com/events
 product-family:
-  name: Cloud Manager
+  name: BlueXP
   repo: cloud-manager-family
-  sidebar_label: 모든 Cloud Manager 설명서
+  sidebar_label: 모든 BlueXP 설명서

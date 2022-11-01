@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: whats-new.html 
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, storagegrid' 
-summary: Cloud Manager에서 StorageGRID 시스템을 관리하는 새로운 기능에 대해 알아보십시오. 
+summary: BlueXP에서 StorageGRID 시스템을 관리하는 새로운 기능에 대해 알아보십시오. 
 ---
 = StorageGRID 관리의 새로운 기능
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud Manager에서 StorageGRID 시스템을 관리하는 새로운 기
 
 
 [role="lead"]
-Cloud Manager에서 StorageGRID 시스템을 관리하는 새로운 기능에 대해 알아보십시오.
+BlueXP(이전의 Cloud Manager)에서 StorageGRID 시스템 관리의 새로운 기능에 대해 알아보십시오.
 
 
 
@@ -24,4 +24,4 @@ Cloud Manager에서 StorageGRID 시스템을 관리하는 새로운 기능에 �
 
 === StorageGRID 지원
 
-이제 Cloud Manager에서 직접 StorageGRID 시스템을 검색할 수 있습니다. StorageGRID을 발견하여 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다.
+이제 BlueXP에서 직접 StorageGRID 시스템을 검색할 수 있습니다. StorageGRID을 발견하여 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다.

@@ -2,8 +2,8 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: Discover your StorageGRID systems through Cloud Manager to get a complete view of data across your hybrid multicloud. 
-summary: Cloud Manager를 통해 StorageGRID 시스템을 검색하여 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다. 
+lead: 'Discover your StorageGRID systems through BlueXP (formerly Cloud Manager) to get a complete view of data across your hybrid multicloud.' 
+summary: 'BlueXP(이전의 Cloud Manager)를 통해 StorageGRID 시스템을 검색하여 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다.' 
 ---
 = StorageGRID 설명서
 :hardbreaks:

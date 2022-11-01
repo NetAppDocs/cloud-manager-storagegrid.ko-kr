@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-storagegrid.html 
 keywords: storagegrid, cluster, discover, manage, discovering, discover storagegrid 
-summary: Cloud Manager를 사용하면 사내 환경에서 StorageGRID 시스템을 검색할 수 있습니다. StorageGRID 클러스터를 Cloud Manager에 추가하면 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다. 
+summary: BlueXP는 사내 환경에서 StorageGRID 시스템을 검색할 수 있습니다. StorageGRID 클러스터를 BlueXP에 추가하면 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다. 
 ---
 = StorageGRID 시스템에 대해 알아보십시오
 :hardbreaks:
@@ -13,7 +13,7 @@ summary: Cloud Manager를 사용하면 사내 환경에서 StorageGRID 시스템
 :imagesdir: ./media/
 
 
-Cloud Manager를 사용하면 사내 환경에서 StorageGRID 시스템을 검색할 수 있습니다. StorageGRID 시스템을 Cloud Manager에 추가하면 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다.
+BlueXP는 사내 환경에서 StorageGRID 시스템을 검색할 수 있습니다. StorageGRID 시스템을 BlueXP에 추가하면 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다.
 
 .무엇을 &#8217;필요로 할거야
 * StorageGRID 시스템에 대한 네트워크 연결을 통해 클라우드 공급자 또는 사내에 설치된 커넥터.
@@ -25,7 +25,8 @@ https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[
 
 
 .단계
-. Canvas에서 * 작업 환경 추가 * 를 클릭하고 * 온-프레미스 * 를 선택합니다.
+. 탐색 메뉴에서 * Storage > Canvas * 를 선택합니다.
+. 작업 환경 추가 * 를 클릭하고 * 온-프레미스 * 를 선택합니다.
 . StorageGRID * 를 선택하고 * 다음 * 을 클릭합니다.
 . 메시지가 표시되면 연결선을 만듭니다.
 +
@@ -37,6 +38,6 @@ image:screenshot-cluster-details.png["관리자 노드의 도메인 이름 또�
 
 
 
-Cloud Manager는 StorageGRID 시스템을 검색하여 Canvas의 작업 환경으로 추가합니다.
+BlueXP는 StorageGRID 시스템을 검색하여 Canvas의 작업 환경으로 추가합니다.
 
-image:screenshot-canvas.png["Cloud Manager Canvas에서 StorageGRID 작업 환경을 보여 주는 스크린샷"]
+image:screenshot-canvas.png["BlueXP Canvas의 StorageGRID 작업 환경을 보여 주는 스크린샷."]

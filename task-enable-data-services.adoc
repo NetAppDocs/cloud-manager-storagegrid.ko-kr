@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-enable-data-services.html 
 keywords: storagegrid, cloud sync, cloud backup, backup, back up data 
-summary: Cloud Manager에서 StorageGRID 시스템을 발견한 후, 백업 및 데이터 동기화에 NetApp의 데이터 서비스를 StorageGRID와 함께 사용할 수 있습니다. 
+summary: BlueXP에서 StorageGRID 시스템을 검색하고 나면 StorageGRID와 함께 NetApp의 데이터 서비스를 사용하여 백업 및 데이터 동기화를 수행할 수 있습니다. 
 ---
 = StorageGRID에서 NetApp 데이터 서비스 사용
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud Manager에서 StorageGRID 시스템을 발견한 후, 백업 및 
 
 
 [role="lead"]
-Cloud Manager에서 StorageGRID 시스템을 검색하고 나면 NetApp의 데이터 서비스를 사용하여 백업 및 데이터 동기화를 수행할 수 있습니다.
+BlueXP에서 StorageGRID 시스템을 발견한 후 NetApp의 데이터 서비스를 사용하여 백업 및 데이터 동기화를 수행할 수 있습니다.
 
 * 클라우드 백업 * 을 사용하여 사내 ONTAP 시스템의 데이터를 NetApp StorageGRID 시스템의 오브젝트 스토리지로 백업할 수 있습니다.
 +
