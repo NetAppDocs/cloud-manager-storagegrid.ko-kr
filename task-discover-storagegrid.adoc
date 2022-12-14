@@ -15,7 +15,7 @@ summary: BlueXP는 사내 환경에서 StorageGRID 시스템을 검색할 수 �
 
 BlueXP는 사내 환경에서 StorageGRID 시스템을 검색할 수 있습니다. StorageGRID 시스템을 BlueXP에 추가하면 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다.
 
-.무엇을 &#8217;필요로 할거야
+.필요한 것
 * StorageGRID 시스템에 대한 네트워크 연결을 통해 클라우드 공급자 또는 사내에 설치된 커넥터.
 +
 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["커넥터 및 커넥터 작성 방법에 대해 자세히 알아보십시오"^]
@@ -38,6 +38,7 @@ image:screenshot-cluster-details.png["관리자 노드의 도메인 이름 또�
 
 
 
+.결과
 BlueXP는 StorageGRID 시스템을 검색하여 Canvas의 작업 환경으로 추가합니다.
 
 image:screenshot-canvas.png["BlueXP Canvas의 StorageGRID 작업 환경을 보여 주는 스크린샷."]

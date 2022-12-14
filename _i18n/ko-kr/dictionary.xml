@@ -13,7 +13,6 @@
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">2022년 9월 18일</block>
   <block id="dc8bb8905a6984d0c45a4ada9e618ace" category="section-title">StorageGRID 지원</block>
   <block id="d85b01f001ee16ebd8eb1917c739d824" category="doc">StorageGRID 시스템에 대해 알아보십시오</block>
-  <block id="a711863513c11f3a6d86294acc7be0ba" category="list-title">무엇을 &amp;#8217;필요로 할거야</block>
   <block id="031f2c2a8e686936eab9e36e2d0d5c66" category="list-text">StorageGRID 시스템에 대한 네트워크 연결을 통해 클라우드 공급자 또는 사내에 설치된 커넥터.</block>
   <block id="013d29d39e390d6b894eaf54e5b91328" category="inline-link">커넥터 및 커넥터 작성 방법에 대해 자세히 알아보십시오</block>
   <block id="8604e02ef9173d1fcb905c94b3e7744f" category="paragraph"><block ref="8604e02ef9173d1fcb905c94b3e7744f" category="inline-link-rx"></block></block>
@@ -132,9 +131,7 @@
   <block id="00fc9d0c515c69ea2c368521453d982e" category="inline-xref">NetApp에 등록하는 방법을 알아보십시오</block>
   <block id="97454ce87333f7ebd50ee38b8126fb39" category="paragraph"><block ref="37544f11913357c4e8c8a4ec607ae247" category="inline-xref-macro-rx"></block>.</block>
   <block id="a92ec860f505b318fd0f0eba6165d607" category="section-title">BlueXP에 NSS 계정을 추가합니다</block>
-  <block id="77bdda0b5be7d2725f2b5941d74db0e2" category="paragraph">지원 대시보드를 통해 NetApp Support 사이트 계정을 추가하고 관리하여 Cloud Manager와 함께 사용할 수 있습니다.</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">고객 수준 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있습니다.</block>
-  <block id="4fde72c535fd0cd463dbeb49347cdfae" category="list-text">파트너 또는 리셀러 계정이 있는 경우 NSS 계정을 하나 이상 추가할 수 있지만 고객 수준 계정과 함께 추가할 수는 없습니다.</block>
   <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">BlueXP 콘솔의 오른쪽 상단에서 도움말 아이콘을 클릭하고 * 지원 * 을 선택합니다.</block>
   <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">이러한 작업을 통해 BlueXP는 NSS 계정을 사용하여 라이선스 다운로드, 소프트웨어 업그레이드 확인 및 향후 지원 등록과 같은 작업을 수행할 수 있습니다.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">다음 사항에 유의하십시오.</block>
@@ -158,17 +155,14 @@
   <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">위에 사용된 BlueXP 계정 일련 번호(960xxxx)를 일련 번호 필드에 복사해야 합니다. 이렇게 하면 계정 처리 속도가 빨라집니다.</block>
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp이 처음이었습니다</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">NetApp의 새로운 브랜드이고 NSS 계정이 없는 경우 아래의 각 단계를 수행하십시오.</block>
-  <block id="59dd2a274c2c6a3cc5b3dce08109019d" category="list-text">지원 등록 페이지에서 Cloud Manager 계정 ID 일련 번호를 찾습니다.</block>
   <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp의 지원 등록 사이트</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">로 이동합니다<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 를 선택하고 * 등록된 NetApp 고객이 아닙니다 * 를 선택합니다.</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">필수 필드(빨간색 별표가 있는 필드)를 입력합니다.</block>
   <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">[제품 라인] * 필드에서 * Cloud Manager * 를 선택한 다음 해당 청구 공급자를 선택합니다.</block>
-  <block id="1192dec4cc2b923397748a651cef178f" category="list-text">위의 2단계에서 Cloud Manager 계정의 일련 번호를 복사하고 보안 검색을 완료한 다음 NetApp의 글로벌 데이터 개인 정보 보호 정책을 읽는지 확인합니다.</block>
   <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">이 보안 트랜잭션을 완료하기 위해 제공된 사서함으로 즉시 이메일이 전송됩니다. 몇 분 내에 확인 이메일이 도착하지 않으면 스팸 폴더를 확인해야 합니다.</block>
   <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">이메일 내에서 작업을 확인합니다.</block>
   <block id="201080500e946070a2e4873042507c77" category="paragraph">확인 시 NetApp에 요청이 제출되고 NetApp Support 사이트 계정을 만들 것을 권장합니다.</block>
-  <block id="d6cb31c22f8f843a781cccec33157281" category="list-text">일련 번호 필드에 위에서 사용된 Cloud Manager 계정 일련 번호(960xxxx)를 복사합니다. 이렇게 하면 계정 처리 속도가 빨라집니다.</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">이 과정에서 NetApp이 연락을 드릴 것입니다. 신규 사용자를 위한 일회성 온보딩 연습입니다.</block>
   <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">NetApp Support 사이트 계정이 있으면 BlueXP로 이동하여 나중에 등록하기 위해 이 NSS 계정을 추가할 수 있습니다.</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp은 다양한 방법으로 BlueXP를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
@@ -200,4 +194,13 @@
   <block id="6f6c91d32f256a6b43783564031a35dc" category="sidebar">BlueXP 외부의 관리를 위한 StorageGRID 문서</block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP 블로그</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">모든 BlueXP 설명서</block>
+  <block id="d59db7846bd10b6d60d21543df9faa9e" category="list-title">필요한 것</block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">결과</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">시작하기 전에</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">작업을 마친 후</block>
+  <block id="f2575f6d19024f7288cf78d7dc5b3db9" category="paragraph">지원 대시보드를 통해 NetApp Support 사이트 계정을 추가하고 관리하여 BlueXP에서 사용할 수 있습니다.</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">파트너 또는 리셀러 계정이 있는 경우 NSS 계정을 하나 이상 추가할 수 있지만 고객 수준 계정과 함께 추가할 수는 없습니다.</block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">지원 등록 페이지에서 계정 ID 일련 번호를 찾습니다.</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">위의 2단계에서 계정의 일련 번호를 복사하고 보안 검색을 완료한 다음 NetApp의 글로벌 데이터 개인 정보 보호 정책을 읽는지 확인합니다.</block>
+  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">일련 번호 필드에 위에서 사용된 계정 일련 번호(960xxxx)를 복사해 주십시오. 이렇게 하면 계정 처리 속도가 빨라집니다.</block>
 </blocks>
